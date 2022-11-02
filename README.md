@@ -1,6 +1,6 @@
 # Getting Started Sunburst Chart Xamarin
 
-This repository contains samples for how to get started with the [Syncfusion Xamarin.Forms Sunburst Chart](https://help.syncfusion.com/xamarin/sunburst-chart/getting-started) control. The sunburst chart is used for visualizing hierarchical data. The circle at the center represents the root level of hierarchy, and the outer circles represent the higher levels of hierarchy.
+This repository contains samples to get started with the [Syncfusion Xamarin.Forms Sunburst Chart](https://help.syncfusion.com/xamarin/sunburst-chart/getting-started) control. The sunburst chart is used for visualizing hierarchical data. The circle at the center represents the root level of hierarchy, and the outer circles represent the higher levels of hierarchy.
 
 ## Syncfusion controls:
 
